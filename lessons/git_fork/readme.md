@@ -1,7 +1,7 @@
 # Getting Started with GitHub
 
 ## Objective
-Github is the most widely used open-source system for version control.  All course documents are stored in a GitHub repository which will be used daily during the bootcamp.  
+Github is the most widely used open-source system for version control.  All course documents are stored in a GitHub repository which will be used daily during the bootcamp.
 
 ## Deliverable
 - your own forked version of this repository
@@ -35,7 +35,7 @@ This makes a personal copy of the repository that you can edit. Your forked copi
 This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
 
 
-## Step 4: Edit your fork  
+## Step 4: Edit your fork
 
 There are files in your forked repository that you need to edit to add your work.
 
@@ -57,5 +57,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+:raised_hands:
 
